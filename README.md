@@ -2,6 +2,19 @@
 
 A simple Pomodoro Timer script written in batch for managing work and break intervals using the Pomodoro Technique.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Install](#install)
+- [Download](#download)
+- [Roadmap](#roadmap)
+- [Development](#development)
+- [Build Setup](#build-setup)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Overview
 
 The Pomodoro Timer is designed to help you manage your work and break intervals more effectively. By following the Pomodoro Technique, you can improve your productivity and focus. This script features customizable work, short break, and long break durations, and provides sound notifications at the end of each interval.
