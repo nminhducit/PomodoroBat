@@ -8,20 +8,21 @@ The Pomodoro Timer is designed to help you manage your work and break intervals 
 
 ## Project Structure
 
+```plaintext
 PomodoroBat
 ├── bin
-│ ├── nircmd
-│ │ ├── nircmd.exe
-│ │ ├── nircmdc.exe
-│ │ └── nircmd.chm
-│ ├── sound
-│ │ ├── pb_alarm_clock.wav
-│ │ ├── pb_clock-tick.wav
-│ │ ├── pb_mixkit-tick-tock.wav
-│ │ └── pb_ticking_1.wav
-├── src
-│ └── main.bat
-└── README.md
+│   ├── nircmd
+│   │   ├── nircmd.exe
+│   │   ├── nircmdc.exe
+│   │   └── nircmd.chm
+│   └── sound
+│       ├── pb_alarm_clock.wav
+│       ├── pb_clock-tick.wav
+│       ├── pb_mixkit-tick-tock.wav
+│       └── pb_ticking_1.wav
+└── src
+    └── main.bat
+```
 
 ## Features
 
